@@ -5,7 +5,7 @@
 ## 使用顺序
 
 1. 先读 `data_structure.md`，定位最相关的知识库文件。
-2. 再读 `student-profile.md`，确认孩子背景和辅导边界。
+2. 正式备课确认 `student-profile.md`、最新复盘递进卡和对应学科进度；短小明确问题只读直接资料。
 3. 如果要归档新资料，读 `ingest-protocol.md`。
 4. 如果涉及线程边界，读 `thread-policy.md`。
 5. 如果涉及具体教学方式，读 `tutoring-playbook.md`。
@@ -18,3 +18,6 @@
 - 不把一次错误写成长期薄弱点。
 - 不把任务完成状态直接等同于已经掌握。
 - 每条错题记录都要有下次可复查的小动作。
+- `learner/learning-rubric.md` 是学习证据口径；`methods/review-loop.md` 把各科输出转为下一步。
+- 初始档案与报告为空，示例不是学生事实。老师进度、待办完成和实际掌握分开维护。
+- 每次归档在 `log.md` 记录依据与改动；当前结论替换过期结论，不向 AGENTS 堆积流水账。
